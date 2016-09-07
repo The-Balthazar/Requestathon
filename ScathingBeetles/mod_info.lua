@@ -1,0 +1,13 @@
+name = "Scathing Beetles"
+uid = "16678e1e-7fc9-11e5-8bcf-scathingbe10"
+version = 1.0
+copyright = "© 2016 Sean Wheeldon"
+description = "The Scathis shoots Fire Beetles now for some reason."
+author = "Sean Wheeldon"
+icon = "/mods/Requestathon/ScathingBeetles/mod_icon.dds"
+selectable = true
+enabled = true
+exclusive = false
+ui_only = false
+before = {  }
+after = {  }

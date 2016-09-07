@@ -1,0 +1,19 @@
+UnitBlueprint {
+	Merge = true,
+	BlueprintId="url0401",
+    Weapon = {
+        {
+            ProjectileId = '/mods/Requestathon/ScathingBeetles/projectiles/CIFArtilleryBeetles01/CIFArtilleryBeetles01_proj.bp',
+        },
+    },
+}
+--BrewLAN Scathis mk2
+--[[UnitBlueprint {
+	Merge = true,
+	BlueprintId="srb2401",
+    Weapon = {
+        {
+            ProjectileId = '/mods/Requestathon/ScathingBeetles/projectiles/CIFArtilleryBeetles01/CIFArtilleryBeetles01_proj.bp',
+        },
+    },
+}]]--
