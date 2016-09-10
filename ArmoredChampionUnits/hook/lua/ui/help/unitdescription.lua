@@ -1,0 +1,1 @@
+Description['vel0301'] = "<LOC Unit_Description_ACU_vel0301>Veteran support armored command unit. Has a Cybran microwave laser torn from the head of a Hades heavy point defence, which he refuses to let out of his hands long enough for UEF scientists to examine it."

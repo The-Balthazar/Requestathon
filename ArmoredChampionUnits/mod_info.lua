@@ -1,0 +1,13 @@
+name = "Armored Champion Units"
+uid = "16678e1e-7fc9-11e5-8bcf-ACUBRobes000"
+version = 0.0
+copyright = "© 2016 Sean Wheeldon"
+description = "Adds a unique single use hero SACU for UEF."
+author = "Sean Wheeldon"
+icon = "/mods/requestathon/ArmoredChampionUnits/Blackrobe.dds"
+selectable = true
+enabled = true
+exclusive = false
+ui_only = false
+before = {  }
+after = {  }
