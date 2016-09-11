@@ -1,0 +1,2 @@
+Description['ual0303'] = "<LOC Unit_Description_V0232> Shielded Siege assault bot. Armed with a high-intensity laser."
+Description['val0303'] = "<LOC Unit_Description_0232> Shielded Siege assault bot. Armed with a high-intensity laser. Can repair and reclaim Mass."
